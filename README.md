@@ -18,7 +18,7 @@ zip ファイルを展開して、次の exe を起動してください。
 
 初回起動後、オーバーレイ右上の設定ボタンから設定画面を開き、`Directory` の `...` ボタンを押して、Slay the Spire 2 の `(プロファイル番号)\saves\history` フォルダを選択してください。
 
-通常は次の場所を選択すれば大丈夫です。
+通常は次の場所を選択してください。
 
 `C:\Program Files (x86)\Steam\userdata\(SteamのユーザーID)\2868840\remote\(プロファイル番号)\saves\history`
 
