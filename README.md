@@ -8,6 +8,10 @@ Slay the Spire 2 のラン履歴から、勝率と現在の連勝数を表示す
 
 ## 起動方法
 
+以下のリンクから zip ファイルをダウンロードしてください。
+
+[v1.0.0 をダウンロード](https://github.com/pmhk2156/StS2WinRateOverlay/releases/tag/v1.0.0)
+
 zip ファイルを展開して、次の exe を起動してください。
 
 `StS2WinRateOverlay.exe`
@@ -46,6 +50,10 @@ Default filter:
 - `game_mode`: `standard`
 
 ## Run
+
+Download the zip file from the link below:
+
+[Download v1.0.0](https://github.com/pmhk2156/StS2WinRateOverlay/releases/tag/v1.0.0)
 
 Unzip the release archive and run:
 
