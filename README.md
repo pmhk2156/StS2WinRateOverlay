@@ -39,15 +39,7 @@ zip ファイルを展開して、次の exe を起動してください。
 
 StS2 Win Rate Overlay is a Windows overlay app that displays your win rate and current win streak from Slay the Spire 2 run history.
 
-## What it shows
-
 You can filter runs by character, ascension, date range, app version, and game mode. The overlay then shows the win rate and current win streak for the selected runs.
-
-Default filter:
-
-- `ascension`: `10`
-- `players[].character`: `CHARACTER.IRONCLAD`
-- `game_mode`: `standard`
 
 ## Run
 
